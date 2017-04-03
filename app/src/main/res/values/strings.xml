@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sedna B2C</string>
+
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="dialog_error_title">Sorry</string>
+
+    <!-- Login activity -->
+    <string name="sign_in">Sign in</string>
+    <string name="forget_password"><u><i>Forgot Password</i></u></string>
+    <string name="keep_me_logged_in">Keep me logged in</string>
+</resources>
